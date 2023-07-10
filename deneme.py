@@ -1,2 +1,2 @@
 print("deneme.py")
-print("version3")
+print("version 1")
